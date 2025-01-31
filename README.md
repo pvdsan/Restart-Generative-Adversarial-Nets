@@ -98,11 +98,3 @@ Sample generated images and their progression through different training techniq
 2. A. Radford et al., "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks," arXiv, 2015.
 3. Martin Heusel et al., "GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium," 2017.
 
-(Refer to the report for the complete list of references.)
-
-## 🛠️ Setup and Installation
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/username/Improving-GANs-Training.git
